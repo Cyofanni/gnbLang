@@ -11,18 +11,4 @@
 
 #define file_err(A) if (!(A)) {printf("%s\n",strerror(EIO));}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #endif
